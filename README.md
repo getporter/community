@@ -36,7 +36,7 @@ into becoming reviewers and maintainers.
 Porter wouldn't be possible without our [contributors][contributors], carrying
 the load and making it better every day! 🙇‍♀️
 
-[contributors]: /CONTRIBUTORS.md
+[contributors]: https://porter.sh/src/CONTRIBUTING.md
 
 ---
 
