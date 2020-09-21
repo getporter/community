@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon 256</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="107.278727" cy="93.60584" rx="107.179568" ry="93.5479974"></ellipse>
+        <rect id="path-3" x="0" y="0.548127418" width="42.9563877" height="24.8365072"></rect>
+        <rect id="path-5" x="0" y="0.548127418" width="42.9563877" height="24.8365072"></rect>
+        <polygon id="path-7" points="0.663812602 28.5024762 32.9427333 6.14218289 32.9427333 62.8885199"></polygon>
+        <polygon id="path-9" points="2.48432756 23.8614463 34.7632482 1.50115298 34.7632482 58.24749"></polygon>
+    </defs>
+    <g id="icon-256" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="head-64" transform="translate(16.000000, 1.000000)">
+            <g id="HEAD" transform="translate(5.244395, 47.352275)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="head" fill="#F7CD88" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <ellipse id="Oval-4" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" cx="121.282143" cy="162.17961" rx="84.6154486" ry="55.0000416"></ellipse>
+            </g>
+            <ellipse id="head" stroke="#3C2E53" stroke-width="7" fill-rule="nonzero" cx="112.523122" cy="140.958115" rx="103.679568" ry="90.0479974"></ellipse>
+            <g id="mouth" transform="translate(91.633409, 149.419660)">
+                <g id="Group-10" transform="translate(34.188000, 13.342358)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Rectangle-5" fill-rule="nonzero"></g>
+                    <ellipse id="Oval-10" fill="#3C2E53" fill-rule="nonzero" mask="url(#mask-4)" cx="22.812191" cy="5.29427333" rx="18.2564648" ry="11.2820598"></ellipse>
+                    <ellipse id="Oval-10" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" cx="23.6260132" cy="0.473758371" rx="18.2564648" ry="11.2820598"></ellipse>
+                </g>
+                <g id="Group-10" transform="translate(21.854674, 26.342358) scale(-1, 1) translate(-21.854674, -26.342358) translate(0.354674, 13.342358)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Rectangle-5" fill-rule="nonzero"></g>
+                    <ellipse id="Oval-10" fill="#3C2E53" fill-rule="nonzero" mask="url(#mask-6)" cx="22.812191" cy="5.29427333" rx="18.2564648" ry="11.2820598"></ellipse>
+                    <ellipse id="Oval-10" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" cx="23.6260132" cy="0.473758371" rx="18.2564648" ry="11.2820598"></ellipse>
+                </g>
+                <polygon id="Path-24" fill="#3C2E53" fill-rule="nonzero" points="30.8606739 0 46.6599647 0 38.7603193 16.4438225"></polygon>
+            </g>
+            <g id="eyes" transform="translate(77.757269, 109.932451)" fill-rule="nonzero">
+                <circle id="Oval" fill="#FFFFFF" cx="17.4846902" cy="17.2866717" r="16.9230897"></circle>
+                <circle id="Oval-2" fill="#FFFFFF" cx="82.3565342" cy="17.2866717" r="16.9230897"></circle>
+                <ellipse id="Oval" fill="#3C2E53" cx="18.4487334" cy="17.2866717" rx="5.64102991" ry="11.2820598"></ellipse>
+                <ellipse id="Oval-2" fill="#3C2E53" cx="83.3205774" cy="17.2866717" rx="5.64102991" ry="11.2820598"></ellipse>
+            </g>
+            <g id="r-ear-fill" transform="translate(137.808598, 34.249700)">
+                <polygon id="Path-18" stroke="#3C2E53" stroke-width="7" fill-rule="nonzero" points="3.48432756 22.8614463 35.7632482 0.501152979 35.7632482 34.6833703"></polygon>
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Path-18" fill="#F7CD88" fill-rule="nonzero" xlink:href="#path-7"></use>
+                <polyline id="Path-12" fill="#D67D54" fill-rule="nonzero" mask="url(#mask-8)" points="9.11064892 29.8721255 26.4234875 15.5478208 26.4234875 43.3136421 9.11064892 31.8373964"></polyline>
+            </g>
+            <g id="hat" transform="translate(41.159687, 0.403521)" fill-rule="nonzero">
+                <path d="M103.37625,58.6283571 L85.4872712,9.87255066 C56.4891381,1.34725179 29.4736657,9.47321953 4.44085397,34.2504539 C4.44085397,44.4246141 4.44085397,44.4246141 4.44085397,80.84875 C23.8009539,85.619122 56.7794192,78.2123243 103.37625,58.6283571 Z" id="Path-14" fill="#FFFFFF" transform="translate(53.908552, 44.424614) rotate(1.000000) translate(-53.908552, -44.424614) "></path>
+                <path d="M101.185556,52.2276269 L84.226215,5.79211645 C54.1837211,-3.76991531 26.6460683,3.83768598 1.61325659,28.6149203 C1.61325659,38.7890806 1.61325659,38.7890806 1.61325659,75.2132164 C20.9733565,79.9835884 54.1641229,72.3217252 101.185556,52.2276269 Z" id="Path-14" fill="#BB0048" transform="translate(51.399406, 39.192115) rotate(1.000000) translate(-51.399406, -39.192115) "></path>
+            </g>
+            <g id="l-ear" transform="translate(17.614297, 56.634335)">
+                <path d="M-2.32328957,19.3907687 L30.3249132,-3.22533421 L30.3249132,54.1702007 L-2.32328957,19.3907687 Z" id="Path-18" stroke="#3C2E53" stroke-width="7" stroke-linecap="square" fill-rule="nonzero" transform="translate(14.916225, 24.392398) scale(-1, 1) rotate(-5.000000) translate(-14.916225, -24.392398) "></path>
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Path-18" fill="#F7CD88" fill-rule="nonzero" transform="translate(18.623788, 29.874321) scale(-1, 1) rotate(-5.000000) translate(-18.623788, -29.874321) " xlink:href="#path-9"></use>
+                <polygon id="Path-10" fill="#D67D54" fill-rule="nonzero" mask="url(#mask-10)" points="11.5825816 14.7739813 11.5825816 54.6027374 38.2204724 34.6883594"></polygon>
+            </g>
+            <g id="bow-1" transform="translate(78.676943, 204.439132)" fill="#BB0048" fill-rule="nonzero">
+                <polygon id="Path-3" points="0.607823509 0.24223852 0.607823509 48.6041541 94.487251 0.24223852 94.487251 48.6041541"></polygon>
+                <circle id="Oval" stroke="#BB0048" cx="47.5475372" cy="24.4231963" r="9.52686802"></circle>
+            </g>
+            <g id="whiskers" transform="translate(0.000000, 127.923173)" fill-rule="nonzero" stroke="#3C2E53" stroke-linecap="round" stroke-width="8">
+                <path d="M205.523762,5.5853706 L228.7474,0.493012424" id="Path-26"></path>
+                <path d="M202.451247,27.6707195 L226.178885,29.1769327" id="Path-26"></path>
+                <path d="M20.2773138,37.7203981 L1.5613585,39.5008419" id="Path-26"></path>
+                <path d="M16.763957,17.1995277 L0.844532199,15.7868735" id="Path-27"></path>
+            </g>
+        </g>
+    </g>
+</svg>
