@@ -17,8 +17,8 @@ Porter's wordmark is set in the [Abril](https://fonts.google.com/specimen/Abril+
 
 Abril is a bold display typeface created by Veronika Burian & José Scaglione (as [TypeTogether](http://www.type-together.com/)). These font files are licensed under the Open Font License.
 
-* [Download Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface)  
-* [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)  
+* [Download Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface)
+* [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
 
 Note: For normal page copy please pair a more legible typeface like [Open Sans](https://fonts.google.com/specimen/Open+Sans).
 
@@ -54,10 +54,10 @@ $pink:   #CFBFD0;
 Cat colors:
 
 ```
-$red:     #AB2449;   
-$orange:  #F1CE91;   
+$red:     #AB2449;
+$orange:  #F1CE91;
 ```
 
-### Color examples: 
+### Color examples:
 
 ![porter-icon-examples](https://user-images.githubusercontent.com/686194/93821995-5bec9c00-fc14-11ea-9bf4-23039c4c8ae5.png)
