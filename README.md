@@ -1,8 +1,4 @@
-# Porter Community
-
-Welcome to the Porter Community repo!
-
-# Porter
+![porter-horizontal-color](https://user-images.githubusercontent.com/686194/93978482-eaeed680-fd30-11ea-8684-cf99b61db3ac.png)
 
 Package your application artifact, client tools, configuration and deployment
 logic together as a versioned bundle that you can distribute, and then install
