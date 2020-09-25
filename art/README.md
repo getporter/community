@@ -1,6 +1,6 @@
 # Porter Branding & Assets 
 
-<img width="1069" alt="overview" src="https://user-images.githubusercontent.com/686194/93821987-5727e800-fc14-11ea-8bed-8034fa8eda75.png">
+![overview](https://user-images.githubusercontent.com/686194/94293852-c9017980-ff13-11ea-9f61-acaf09d8bb30.png)
 
 ## Logo
 
