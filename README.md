@@ -12,10 +12,12 @@ application.
 # Contact
 
 * [Mailing List] - Great for following the project at a high level because it is low traffic, mostly release notes and blog posts on new features.
+* [Twitter] - Follow the project on Twitter for the latest updates and announcements.
 * [Slack] - Discuss #porter or #cnab with other users and the maintainers.
 * [Open an Issue] - If you have a bug, feature request or question about Porter, ask on GitHub so that we can prioritize it and make sure you get an answer. If you ask on Slack, we will probably turn around and make an issue anyway. 😉
 
 [Mailing List]: https://porter.sh/mailing-list
+[Twitter]: https://twitter.com/get_porter
 [Slack]: https://porter.sh/community/#slack
 [Open an Issue]: https://github.com/getporter/porter/issues/new/choose
 
