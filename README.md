@@ -1,4 +1,4 @@
-![porter-horizontal-color](https://user-images.githubusercontent.com/686194/93978482-eaeed680-fd30-11ea-8684-cf99b61db3ac.png)
+![porter-horizontal-color](art/logo/porter-logo-horizontal.png)
 
 Package your application artifact, client tools, configuration and deployment
 logic together as a versioned bundle that you can distribute, and then install
