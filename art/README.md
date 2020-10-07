@@ -1,6 +1,6 @@
 # Porter Branding & Assets 
 
-![overview](https://user-images.githubusercontent.com/686194/94293852-c9017980-ff13-11ea-9f61-acaf09d8bb30.png)
+![overview](styleguide/overview.png)
 
 ## Logo
 
@@ -13,7 +13,7 @@ This `/art` directory contains the Porter brand assets Choose the format that wo
 Porter's wordmark is set in the [Abril](https://fonts.google.com/specimen/Abril+Fatface) typeface:
 
 
-![porter-wordmark](https://user-images.githubusercontent.com/686194/93822112-8d656780-fc14-11ea-9492-9b4d8494efba.png)
+![porter-wordmark](wordmark/porter-wordmark.png)
 
 Abril is a bold display typeface created by Veronika Burian & José Scaglione (as [TypeTogether](http://www.type-together.com/)). These font files are licensed under the Open Font License.
 
@@ -26,14 +26,14 @@ Note: For normal page copy please pair a more legible typeface like [Open Sans](
 
 ## Porter Cat
 
-![porter-cat-overview](https://user-images.githubusercontent.com/686194/93821992-5abb6f00-fc14-11ea-91db-3a93c48faa2c.png)
+![porter-cat-overview](styleguide/porter-cat-overview.png)
 
-![porter-cat-examples](https://user-images.githubusercontent.com/686194/93821990-5abb6f00-fc14-11ea-93bf-dcc16d2f7c04.png)
+![porter-cat-examples](styleguide/porter-cat-examples.png)
 
 
 ## Porter Color Palette:
 
-![porter-palette](https://user-images.githubusercontent.com/686194/93821996-5bec9c00-fc14-11ea-9e88-a676ec99cf91.png)
+![porter-palette](styleguide/porter-palette.png)
 
 ### Color values: 
 
@@ -60,4 +60,4 @@ $orange:  #F1CE91;
 
 ### Color examples:
 
-![porter-icon-examples](https://user-images.githubusercontent.com/686194/93821995-5bec9c00-fc14-11ea-9bf4-23039c4c8ae5.png)
+![porter-icon-examples](styleguide/porter-icon-examples.png)
